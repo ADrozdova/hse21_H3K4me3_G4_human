@@ -1,9 +1,10 @@
 source('lib.R')
 
 ###
+setwd("/home/nastya/Documents/hse20-21/bio/hse21_H3K4me3_G4_human/src")
 
-#NAME <- 'H3K4me3_SK-N-MC.ENCFF670BFD.hg19'
-NAME <- 'H3K4me3_SK-N-MC.ENCFF982ERU.hg19'
+NAME <- 'H3K4me3_SK-N-MC.ENCFF670BFD.hg19'
+#NAME <- 'H3K4me3_SK-N-MC.ENCFF982ERU.hg19'
 
 ###
 

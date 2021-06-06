@@ -3,7 +3,8 @@ source('lib.R')
 
 #NAME <- 'H3K4me3_SK-N-MC.ENCFF670BFD.hg19'
 #NAME <- 'H3K4me3_SK-N-MC.ENCFF982ERU.hg19'
-NAME <- 'G4_seq_Li_K'
+#NAME <- 'G4_seq_Li_K'
+NAME <- 'H3K4me3_SK-N-MC.intersect_with_G4_seq_Li_K'
 
 ###
 
